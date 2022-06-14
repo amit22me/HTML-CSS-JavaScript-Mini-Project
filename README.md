@@ -1,5 +1,6 @@
 # HTML-CSS-JavaScript-Mini-Project
 <h3>#Contents</h3>
+<p>Mini project for a clock designed by AMIT KUMAR</p>
 <p>Files included in this project:-</p>
 <ol>
   <li>README.md</li>
