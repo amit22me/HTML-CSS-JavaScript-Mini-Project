@@ -13,3 +13,5 @@
 </ol>
 <h3>#Inspiration</h3>
 <p>I built this project because i was interested in JavaScript part of web designing, mostly the animation.Since I am a beginner I wanted to design something simple yet useful that can be used by any person.I started developing simple animations and during that period I got the idea of building a clock.</p>
+<h3>#Tools</h3>
+<p>This project was built using HTML,CSS & JavaScript.I used JS mostly for creating the animation of hour, minute and second hands.</p>
